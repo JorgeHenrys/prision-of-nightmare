@@ -3,7 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ScreenShake
+  - Enemy
+  - ToSleep
+  - ToComputer
+  - EnemyBirdman
+  - EnemyCrab
+  - EnemyAtomic
+  - EnemyBubble
+  - EnemySpider
+  - EnemyFlying
+  - BulletEnemy
+  - EnemySpiderBot
+  - EnemyWheelBot
+  - EnemyWorm
+  - EnemyFish
+  - BossSpider
   layers:
   - Default
   - TransparentFX
@@ -16,14 +32,14 @@ TagManager:
   - Player
   - Ground
   - Obstacle
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Box
+  - Enemy
+  - Environment
+  - Room
+  - HeadPoint
+  - AreaSwim
+  - Boss
+  - Velocity
   - 
   - 
   - 
@@ -40,4 +56,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 362558889
     locked: 0

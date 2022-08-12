@@ -332,156 +332,6 @@ TextureImporter:
   - first:
       213: 7363589708197089026
     second: cave_02_109
-  - first:
-      213: -2239125968876063815
-    second: cave_02_110
-  - first:
-      213: -666745913364224578
-    second: cave_02_111
-  - first:
-      213: -2885342393148664120
-    second: cave_02_112
-  - first:
-      213: 3256073483721736556
-    second: cave_02_113
-  - first:
-      213: -4663111723935518115
-    second: cave_02_114
-  - first:
-      213: 4461910933659195585
-    second: cave_02_115
-  - first:
-      213: -782005757363015419
-    second: cave_02_116
-  - first:
-      213: 2624588944457822222
-    second: cave_02_117
-  - first:
-      213: 5428223587846343118
-    second: cave_02_118
-  - first:
-      213: -1229043679364379664
-    second: cave_02_119
-  - first:
-      213: -2539787140622140959
-    second: cave_02_120
-  - first:
-      213: -7778842545911201903
-    second: cave_02_121
-  - first:
-      213: -8854371776968807045
-    second: cave_02_122
-  - first:
-      213: -3078428685047764027
-    second: cave_02_123
-  - first:
-      213: -7176389287453364597
-    second: cave_02_124
-  - first:
-      213: 2702910479167028097
-    second: cave_02_125
-  - first:
-      213: 2835422055937503862
-    second: cave_02_126
-  - first:
-      213: 3401456492694350239
-    second: cave_02_127
-  - first:
-      213: 6914018092474670907
-    second: cave_02_128
-  - first:
-      213: -8683815538620775304
-    second: cave_02_129
-  - first:
-      213: 9174349666286855174
-    second: cave_02_130
-  - first:
-      213: -9000005029492593484
-    second: cave_02_131
-  - first:
-      213: -5512037536821997687
-    second: cave_02_132
-  - first:
-      213: 4801712198537329465
-    second: cave_02_133
-  - first:
-      213: 1100332653373517650
-    second: cave_02_134
-  - first:
-      213: -9003852477422432058
-    second: cave_02_135
-  - first:
-      213: -7519952060008302054
-    second: cave_02_136
-  - first:
-      213: -5041290486165961326
-    second: cave_02_137
-  - first:
-      213: 678333409929643646
-    second: cave_02_138
-  - first:
-      213: -4514010544031438006
-    second: cave_02_139
-  - first:
-      213: -7330400668478421095
-    second: cave_02_140
-  - first:
-      213: 4620228387272991178
-    second: cave_02_141
-  - first:
-      213: -705077160569196267
-    second: cave_02_142
-  - first:
-      213: 113513517536364950
-    second: cave_02_143
-  - first:
-      213: -5081041173292501808
-    second: cave_02_144
-  - first:
-      213: 335067131947363395
-    second: cave_02_145
-  - first:
-      213: -8620055275001667706
-    second: cave_02_146
-  - first:
-      213: -3256985962151453330
-    second: cave_02_147
-  - first:
-      213: -6174723902950849776
-    second: cave_02_148
-  - first:
-      213: -6268827822880663317
-    second: cave_02_149
-  - first:
-      213: -3653759319969698913
-    second: cave_02_150
-  - first:
-      213: 4273082281085762402
-    second: cave_02_151
-  - first:
-      213: 8125300323646777814
-    second: cave_02_152
-  - first:
-      213: 1350603409618873056
-    second: cave_02_153
-  - first:
-      213: -1751321592651507497
-    second: cave_02_154
-  - first:
-      213: -2356572574836548697
-    second: cave_02_155
-  - first:
-      213: -1451242867668065904
-    second: cave_02_156
-  - first:
-      213: -1983249270338704722
-    second: cave_02_157
-  - first:
-      213: 3648529660374288387
-    second: cave_02_158
-  - first:
-      213: 2414114256586266986
-    second: cave_02_159
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -587,7 +437,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -608,7 +458,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -629,7 +479,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -650,7 +500,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -671,7 +521,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -692,7 +542,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -713,7 +563,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -734,7 +584,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -755,7 +605,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -776,7 +626,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -797,7 +647,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -818,7 +668,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -839,7 +689,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -860,7 +710,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -881,7 +731,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -902,7 +752,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -923,7 +773,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -944,7 +794,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -965,7 +815,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -986,7 +836,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1007,7 +857,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1028,7 +878,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1049,7 +899,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1070,7 +920,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1091,7 +941,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1112,7 +962,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1133,7 +983,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1154,7 +1004,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1175,7 +1025,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1196,7 +1046,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1217,7 +1067,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1238,7 +1088,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1259,7 +1109,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1280,7 +1130,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1301,7 +1151,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1322,7 +1172,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1343,7 +1193,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1359,12 +1209,12 @@ TextureImporter:
       name: cave_02_37
       rect:
         serializedVersion: 2
-        x: 40
+        x: 48
         y: 60
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1380,12 +1230,12 @@ TextureImporter:
       name: cave_02_38
       rect:
         serializedVersion: 2
-        x: 48
+        x: 56
         y: 60
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1401,12 +1251,12 @@ TextureImporter:
       name: cave_02_39
       rect:
         serializedVersion: 2
-        x: 56
+        x: 72
         y: 60
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1422,12 +1272,12 @@ TextureImporter:
       name: cave_02_40
       rect:
         serializedVersion: 2
-        x: 64
+        x: 80
         y: 60
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1443,12 +1293,12 @@ TextureImporter:
       name: cave_02_41
       rect:
         serializedVersion: 2
-        x: 72
+        x: 88
         y: 60
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1464,12 +1314,12 @@ TextureImporter:
       name: cave_02_42
       rect:
         serializedVersion: 2
-        x: 80
+        x: 96
         y: 60
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1485,12 +1335,12 @@ TextureImporter:
       name: cave_02_43
       rect:
         serializedVersion: 2
-        x: 88
+        x: 104
         y: 60
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1506,12 +1356,12 @@ TextureImporter:
       name: cave_02_44
       rect:
         serializedVersion: 2
-        x: 96
+        x: 112
         y: 60
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1527,12 +1377,12 @@ TextureImporter:
       name: cave_02_45
       rect:
         serializedVersion: 2
-        x: 104
+        x: 120
         y: 60
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1548,12 +1398,12 @@ TextureImporter:
       name: cave_02_46
       rect:
         serializedVersion: 2
-        x: 112
-        y: 60
+        x: 0
+        y: 52
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1569,12 +1419,12 @@ TextureImporter:
       name: cave_02_47
       rect:
         serializedVersion: 2
-        x: 120
-        y: 60
+        x: 8
+        y: 52
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1590,12 +1440,12 @@ TextureImporter:
       name: cave_02_48
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 52
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1611,12 +1461,12 @@ TextureImporter:
       name: cave_02_49
       rect:
         serializedVersion: 2
-        x: 8
+        x: 24
         y: 52
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1632,12 +1482,12 @@ TextureImporter:
       name: cave_02_50
       rect:
         serializedVersion: 2
-        x: 16
+        x: 88
         y: 52
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1653,12 +1503,12 @@ TextureImporter:
       name: cave_02_51
       rect:
         serializedVersion: 2
-        x: 24
+        x: 96
         y: 52
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1674,12 +1524,12 @@ TextureImporter:
       name: cave_02_52
       rect:
         serializedVersion: 2
-        x: 32
+        x: 112
         y: 52
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1695,12 +1545,12 @@ TextureImporter:
       name: cave_02_53
       rect:
         serializedVersion: 2
-        x: 40
+        x: 120
         y: 52
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1716,12 +1566,12 @@ TextureImporter:
       name: cave_02_54
       rect:
         serializedVersion: 2
-        x: 48
-        y: 52
+        x: 0
+        y: 44
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1737,12 +1587,12 @@ TextureImporter:
       name: cave_02_55
       rect:
         serializedVersion: 2
-        x: 56
-        y: 52
+        x: 8
+        y: 44
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1758,12 +1608,12 @@ TextureImporter:
       name: cave_02_56
       rect:
         serializedVersion: 2
-        x: 64
-        y: 52
+        x: 24
+        y: 44
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1779,12 +1629,12 @@ TextureImporter:
       name: cave_02_57
       rect:
         serializedVersion: 2
-        x: 72
-        y: 52
+        x: 88
+        y: 44
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1800,12 +1650,12 @@ TextureImporter:
       name: cave_02_58
       rect:
         serializedVersion: 2
-        x: 80
-        y: 52
+        x: 96
+        y: 44
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1821,12 +1671,12 @@ TextureImporter:
       name: cave_02_59
       rect:
         serializedVersion: 2
-        x: 88
-        y: 52
+        x: 112
+        y: 44
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1842,12 +1692,12 @@ TextureImporter:
       name: cave_02_60
       rect:
         serializedVersion: 2
-        x: 96
-        y: 52
+        x: 120
+        y: 44
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1863,12 +1713,12 @@ TextureImporter:
       name: cave_02_61
       rect:
         serializedVersion: 2
-        x: 104
-        y: 52
+        x: 0
+        y: 36
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1884,12 +1734,12 @@ TextureImporter:
       name: cave_02_62
       rect:
         serializedVersion: 2
-        x: 112
-        y: 52
+        x: 96
+        y: 36
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1905,12 +1755,12 @@ TextureImporter:
       name: cave_02_63
       rect:
         serializedVersion: 2
-        x: 120
-        y: 52
+        x: 112
+        y: 36
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1926,12 +1776,12 @@ TextureImporter:
       name: cave_02_64
       rect:
         serializedVersion: 2
-        x: 0
-        y: 44
+        x: 120
+        y: 36
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1947,12 +1797,12 @@ TextureImporter:
       name: cave_02_65
       rect:
         serializedVersion: 2
-        x: 8
-        y: 44
+        x: 0
+        y: 28
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1968,12 +1818,12 @@ TextureImporter:
       name: cave_02_66
       rect:
         serializedVersion: 2
-        x: 16
-        y: 44
+        x: 112
+        y: 28
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1989,12 +1839,12 @@ TextureImporter:
       name: cave_02_67
       rect:
         serializedVersion: 2
-        x: 24
-        y: 44
+        x: 120
+        y: 28
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2010,12 +1860,12 @@ TextureImporter:
       name: cave_02_68
       rect:
         serializedVersion: 2
-        x: 32
-        y: 44
+        x: 0
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2031,12 +1881,12 @@ TextureImporter:
       name: cave_02_69
       rect:
         serializedVersion: 2
-        x: 40
-        y: 44
+        x: 8
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2052,12 +1902,12 @@ TextureImporter:
       name: cave_02_70
       rect:
         serializedVersion: 2
-        x: 48
-        y: 44
+        x: 16
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2073,12 +1923,12 @@ TextureImporter:
       name: cave_02_71
       rect:
         serializedVersion: 2
-        x: 56
-        y: 44
+        x: 64
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2094,12 +1944,12 @@ TextureImporter:
       name: cave_02_72
       rect:
         serializedVersion: 2
-        x: 64
-        y: 44
+        x: 72
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2115,12 +1965,12 @@ TextureImporter:
       name: cave_02_73
       rect:
         serializedVersion: 2
-        x: 72
-        y: 44
+        x: 80
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2136,12 +1986,12 @@ TextureImporter:
       name: cave_02_74
       rect:
         serializedVersion: 2
-        x: 80
-        y: 44
+        x: 88
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2157,12 +2007,12 @@ TextureImporter:
       name: cave_02_75
       rect:
         serializedVersion: 2
-        x: 88
-        y: 44
+        x: 96
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2178,12 +2028,12 @@ TextureImporter:
       name: cave_02_76
       rect:
         serializedVersion: 2
-        x: 96
-        y: 44
+        x: 112
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2199,12 +2049,12 @@ TextureImporter:
       name: cave_02_77
       rect:
         serializedVersion: 2
-        x: 104
-        y: 44
+        x: 120
+        y: 20
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2220,12 +2070,12 @@ TextureImporter:
       name: cave_02_78
       rect:
         serializedVersion: 2
-        x: 112
-        y: 44
+        x: 0
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2241,12 +2091,12 @@ TextureImporter:
       name: cave_02_79
       rect:
         serializedVersion: 2
-        x: 120
-        y: 44
+        x: 8
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2262,12 +2112,12 @@ TextureImporter:
       name: cave_02_80
       rect:
         serializedVersion: 2
-        x: 0
-        y: 36
+        x: 16
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2283,12 +2133,12 @@ TextureImporter:
       name: cave_02_81
       rect:
         serializedVersion: 2
-        x: 8
-        y: 36
+        x: 24
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2304,12 +2154,12 @@ TextureImporter:
       name: cave_02_82
       rect:
         serializedVersion: 2
-        x: 16
-        y: 36
+        x: 32
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2325,12 +2175,12 @@ TextureImporter:
       name: cave_02_83
       rect:
         serializedVersion: 2
-        x: 24
-        y: 36
+        x: 40
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2346,12 +2196,12 @@ TextureImporter:
       name: cave_02_84
       rect:
         serializedVersion: 2
-        x: 32
-        y: 36
+        x: 48
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2367,12 +2217,12 @@ TextureImporter:
       name: cave_02_85
       rect:
         serializedVersion: 2
-        x: 40
-        y: 36
+        x: 56
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2388,12 +2238,12 @@ TextureImporter:
       name: cave_02_86
       rect:
         serializedVersion: 2
-        x: 48
-        y: 36
+        x: 64
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2409,12 +2259,12 @@ TextureImporter:
       name: cave_02_87
       rect:
         serializedVersion: 2
-        x: 56
-        y: 36
+        x: 72
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2430,12 +2280,12 @@ TextureImporter:
       name: cave_02_88
       rect:
         serializedVersion: 2
-        x: 64
-        y: 36
+        x: 80
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2451,12 +2301,12 @@ TextureImporter:
       name: cave_02_89
       rect:
         serializedVersion: 2
-        x: 72
-        y: 36
+        x: 88
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2472,12 +2322,12 @@ TextureImporter:
       name: cave_02_90
       rect:
         serializedVersion: 2
-        x: 80
-        y: 36
+        x: 96
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2493,12 +2343,12 @@ TextureImporter:
       name: cave_02_91
       rect:
         serializedVersion: 2
-        x: 88
-        y: 36
+        x: 104
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2514,12 +2364,12 @@ TextureImporter:
       name: cave_02_92
       rect:
         serializedVersion: 2
-        x: 96
-        y: 36
+        x: 112
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2535,12 +2385,12 @@ TextureImporter:
       name: cave_02_93
       rect:
         serializedVersion: 2
-        x: 104
-        y: 36
+        x: 120
+        y: 12
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2556,12 +2406,12 @@ TextureImporter:
       name: cave_02_94
       rect:
         serializedVersion: 2
-        x: 112
-        y: 36
+        x: 0
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2577,12 +2427,12 @@ TextureImporter:
       name: cave_02_95
       rect:
         serializedVersion: 2
-        x: 120
-        y: 36
+        x: 8
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2598,12 +2448,12 @@ TextureImporter:
       name: cave_02_96
       rect:
         serializedVersion: 2
-        x: 0
-        y: 28
+        x: 16
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2619,12 +2469,12 @@ TextureImporter:
       name: cave_02_97
       rect:
         serializedVersion: 2
-        x: 8
-        y: 28
+        x: 24
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2640,12 +2490,12 @@ TextureImporter:
       name: cave_02_98
       rect:
         serializedVersion: 2
-        x: 16
-        y: 28
+        x: 32
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2661,12 +2511,12 @@ TextureImporter:
       name: cave_02_99
       rect:
         serializedVersion: 2
-        x: 24
-        y: 28
+        x: 40
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2682,12 +2532,12 @@ TextureImporter:
       name: cave_02_100
       rect:
         serializedVersion: 2
-        x: 32
-        y: 28
+        x: 48
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2703,12 +2553,12 @@ TextureImporter:
       name: cave_02_101
       rect:
         serializedVersion: 2
-        x: 40
-        y: 28
+        x: 56
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2724,12 +2574,12 @@ TextureImporter:
       name: cave_02_102
       rect:
         serializedVersion: 2
-        x: 48
-        y: 28
+        x: 64
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2745,12 +2595,12 @@ TextureImporter:
       name: cave_02_103
       rect:
         serializedVersion: 2
-        x: 56
-        y: 28
+        x: 72
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2766,12 +2616,12 @@ TextureImporter:
       name: cave_02_104
       rect:
         serializedVersion: 2
-        x: 64
-        y: 28
+        x: 80
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2787,12 +2637,12 @@ TextureImporter:
       name: cave_02_105
       rect:
         serializedVersion: 2
-        x: 72
-        y: 28
+        x: 88
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2808,12 +2658,12 @@ TextureImporter:
       name: cave_02_106
       rect:
         serializedVersion: 2
-        x: 80
-        y: 28
+        x: 96
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2829,12 +2679,12 @@ TextureImporter:
       name: cave_02_107
       rect:
         serializedVersion: 2
-        x: 88
-        y: 28
+        x: 104
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2850,12 +2700,12 @@ TextureImporter:
       name: cave_02_108
       rect:
         serializedVersion: 2
-        x: 96
-        y: 28
+        x: 112
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2871,12 +2721,12 @@ TextureImporter:
       name: cave_02_109
       rect:
         serializedVersion: 2
-        x: 104
-        y: 28
+        x: 120
+        y: 4
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2884,1056 +2734,6 @@ TextureImporter:
       bones: []
       spriteID: 20f4fcc53d9b03660800000000000000
       internalID: 7363589708197089026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_110
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 28
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b33ac17bc60de0e0800000000000000
-      internalID: -2239125968876063815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_111
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 28
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb56b76df1e3fb6f0800000000000000
-      internalID: -666745913364224578
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_112
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c69ff0716435f7d0800000000000000
-      internalID: -2885342393148664120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_113
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c618dcff495ef2d20800000000000000
-      internalID: 3256073483721736556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_114
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d523dd2e79c494fb0800000000000000
-      internalID: -4663111723935518115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_115
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c8103c9a54ebed30800000000000000
-      internalID: 4461910933659195585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_116
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 501311c28e1c525f0800000000000000
-      internalID: -782005757363015419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_117
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0073d34db96c6420800000000000000
-      internalID: 2624588944457822222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_118
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec94afad79ce45b40800000000000000
-      internalID: 5428223587846343118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_119
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0fb0c0e094f81fee0800000000000000
-      internalID: -1229043679364379664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_120
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e9bc1e4d0dd0ccd0800000000000000
-      internalID: -2539787140622140959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_121
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19f74472beffb0490800000000000000
-      internalID: -7778842545911201903
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_122
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b7da78408c3fe1580800000000000000
-      internalID: -8854371776968807045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_123
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5cbea51db693745d0800000000000000
-      internalID: -3078428685047764027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_124
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8e6c6717f7586c90800000000000000
-      internalID: -7176389287453364597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_125
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18b7e6a92caa28520800000000000000
-      internalID: 2702910479167028097
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_126
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 67276705651795720800000000000000
-      internalID: 2835422055937503862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_127
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 20
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f992efd88a6643f20800000000000000
-      internalID: 3401456492694350239
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_128
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3f9394b2d683ff50800000000000000
-      internalID: 6914018092474670907
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_129
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 874cd75c6c3ec7780800000000000000
-      internalID: -8683815538620775304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_130
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6046048e966d15f70800000000000000
-      internalID: 9174349666286855174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_131
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4bc6d581c1f891380800000000000000
-      internalID: -9000005029492593484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_132
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98f0b15701f4183b0800000000000000
-      internalID: -5512037536821997687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_133
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 93b3a73ddcb13a240800000000000000
-      internalID: 4801712198537329465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_134
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 25f671be7ba254f00800000000000000
-      internalID: 1100332653373517650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_135
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c0173150e3eb0380800000000000000
-      internalID: -9003852477422432058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_136
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1afc3f9173c3a790800000000000000
-      internalID: -7519952060008302054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_137
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2958582430db90ab0800000000000000
-      internalID: -5041290486165961326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_138
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e76c22274ace96900800000000000000
-      internalID: 678333409929643646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_139
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4b63a293530b51c0800000000000000
-      internalID: -4514010544031438006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_140
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 997ce0e1e6f254a90800000000000000
-      internalID: -7330400668478421095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_141
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac1259c3d395e1040800000000000000
-      internalID: 4620228387272991178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_142
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5113801ee001736f0800000000000000
-      internalID: -705077160569196267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_143
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 12
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 699c5f951f7439100800000000000000
-      internalID: 113513517536364950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_144
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d434c039f38c79b0800000000000000
-      internalID: -5081041173292501808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_145
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34ca1aff7c566a400800000000000000
-      internalID: 335067131947363395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_146
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68f1b4df5696f5880800000000000000
-      internalID: -8620055275001667706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_147
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6d578f068cdcc2d0800000000000000
-      internalID: -3256985962151453330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_148
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 013408a4359fe4aa0800000000000000
-      internalID: -6174723902950849776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_149
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be8dc1b0f46a009a0800000000000000
-      internalID: -6268827822880663317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_150
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9bee66c14d3b4dc0800000000000000
-      internalID: -3653759319969698913
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_151
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26bf124e1b90d4b30800000000000000
-      internalID: 4273082281085762402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_152
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d9255c389dd2c070800000000000000
-      internalID: 8125300323646777814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_153
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0eaa3ce25ae4eb210800000000000000
-      internalID: 1350603409618873056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_154
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d819865a4e02b7e0800000000000000
-      internalID: -1751321592651507497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_155
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ab90759ab5cb4fd0800000000000000
-      internalID: -2356572574836548697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_156
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 09163d50d462cdbe0800000000000000
-      internalID: -1451242867668065904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_157
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eaaa86cdb451a74e0800000000000000
-      internalID: -1983249270338704722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_158
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3080617356e22a230800000000000000
-      internalID: 3648529660374288387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cave_02_159
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 4
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a69d7073028a08120800000000000000
-      internalID: 2414114256586266986
       vertices: []
       indices: 
       edges: []
