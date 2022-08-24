@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\BulletsEnemies\BulletWebSpider.cs" />
      <Compile Include="Assets\Scripts\CinemachineShake.cs" />
      <Compile Include="Assets\Scripts\GoDreams.cs" />
+     <Compile Include="Assets\Scripts\Enviroment\SpawTiles.cs" />
      <Compile Include="Assets\Scripts\HealthBarEnemy.cs" />
      <Compile Include="Assets\Scripts\Crate.cs" />
      <Compile Include="Assets\Scripts\Player\FallingPlayer.cs" />
@@ -90,7 +91,7 @@
      <Compile Include="Assets\Scripts\ToComputer.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\Coins\FollowPlayer.cs" />
-     <Compile Include="Assets\Scripts\Enviroment\SpawTiles.cs" />
+     <Compile Include="Assets\Scripts\Cutscenes\LoadScreen.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
